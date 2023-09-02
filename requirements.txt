@@ -11,3 +11,4 @@ shortzy
 datetime
 pytz
 aiohttp
+dnspython==2.3.0
