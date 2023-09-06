@@ -155,7 +155,7 @@ async def start(client, message):
                           InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/{SUPPORT_CHAT}'),
                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("Mᴏᴠɪᴇ Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ", url="t.me/movie_on1")
+                          InlineKeyboardButton("📍𝙺𝙺 𝙱𝙾𝚃𝚂📍", url="https://t.me/KK_BOTS")
                          ]
                         ]
                     )
@@ -174,7 +174,7 @@ async def start(client, message):
                           InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/{SUPPORT_CHAT}'),
                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("Mᴏᴠɪᴇ Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ", url="t.me/movie_on1")
+                          InlineKeyboardButton("📍𝙺𝙺 𝙱𝙾𝚃𝚂📍", url="https://t.me/KK_BOTS")
                          ]
                         ]
                     )
@@ -334,7 +334,7 @@ async def start(client, message):
                                 InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/{SUPPORT_CHAT}'),
                                 InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                             ],[
-                                InlineKeyboardButton("Mᴏᴠɪᴇ Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ", url="t.me/movie_on1")
+                                InlineKeyboardButton("📍𝙺𝙺 𝙱𝙾𝚃𝚂📍", url="https://t.me/KK_BOTS")
                             ]
                         ]
                     )
@@ -345,7 +345,7 @@ async def start(client, message):
                                 InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/{SUPPORT_CHAT}'),
                                 InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                             ],[
-                                InlineKeyboardButton("Mᴏᴠɪᴇ Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ", url="t.me/movie_on1")
+                                InlineKeyboardButton("📍𝙺𝙺 𝙱𝙾𝚃𝚂📍", url="https://t.me/KK_BOTS")
                             ]
                         ]
                     )
@@ -411,7 +411,7 @@ async def start(client, message):
                                 InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/{SUPPORT_CHAT}'),
                                 InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                             ],[
-                                InlineKeyboardButton("Mᴏᴠɪᴇ Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ", url="t.me/movie_on1")
+                                InlineKeyboardButton("📍𝙺𝙺 𝙱𝙾𝚃𝚂📍", url="https://t.me/KK_BOTS")
                             ]
                         ]
                     )
@@ -422,7 +422,7 @@ async def start(client, message):
                                 InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/{SUPPORT_CHAT}'),
                                 InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                             ],[
-                                InlineKeyboardButton("Mᴏᴠɪᴇ Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ", url="t.me/movie_on1")
+                                InlineKeyboardButton("📍𝙺𝙺 𝙱𝙾𝚃𝚂📍", url="https://t.me/KK_BOTS")
                             ]
                         ]
                     )
@@ -487,7 +487,7 @@ async def start(client, message):
                         InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/{SUPPORT_CHAT}'),
                         InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                     ],[
-                        InlineKeyboardButton("Mᴏᴠɪᴇ Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ", url="t.me/movie_on1")
+                        InlineKeyboardButton("📍𝙺𝙺 𝙱𝙾𝚃𝚂📍", url="https://t.me/KK_BOTS")
                     ]
                 ]
             )
@@ -498,7 +498,7 @@ async def start(client, message):
                         InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/{SUPPORT_CHAT}'),
                         InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                     ],[
-                        InlineKeyboardButton("Mᴏᴠɪᴇ Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ", url="t.me/movie_on1")
+                        InlineKeyboardButton("📍𝙺𝙺 𝙱𝙾𝚃𝚂📍", url="https://t.me/KK_BOTS")
                     ]
                 ]
             )
